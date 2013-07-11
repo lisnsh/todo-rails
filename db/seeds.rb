@@ -5,3 +5,10 @@
 #
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
+
+Todo.create( {title: "restful api", completed: false} )
+Todo.create( {title: "backbone model", completed: false} )
+Todo.create( {title: "backbone collection", completed: false} )
+Todo.create( {title: "backbone controller", completed: false} )
+Todo.create( {title: "backbone view", completed: false} )
+
